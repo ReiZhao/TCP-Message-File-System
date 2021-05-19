@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/language-python-brightgreen)  &nbsp;  ![](https://img.shields.io/badge/build-passing-brightgreen)
 
 # TCP-server-client
-Sample TCP server &amp; TCP client in C++
+Sample TCP server &amp; TCP client in Python
 
 ## TCP server (python 3.6)
 Implmented based on socket, tested on Linux/Mac OS 
